@@ -10,4 +10,4 @@ usage：python trans.py <file>
 
 
 link:
-https://github.com/u0-ani-nya/cil2te/
+https://github.com/u0-ani-nya/setools
